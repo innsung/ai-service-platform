@@ -1,4 +1,8 @@
-from pydantic import BaseModel, ConfigDict
+from typing import List
+from pydantic import BaseModel, ConfigDict, Field
+
+class BookItems(BaseModel):
+    books: List[BookItem] = Field(default_factory=list)
 
 
 class BookItem(BaseModel):

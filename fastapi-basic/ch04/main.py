@@ -1,6 +1,6 @@
 from fastapi import FastAPI
-from routers.todo import todo_router
-# from routers.book import book_router
+# from routers.todo import todo_router
+from routers.book import book_router
 from database import Base, engine
 
 Base.metadata.create_all(bind=engine)
@@ -13,5 +13,5 @@ async def welcome() -> dict:
         "message": "welcome ch03!!"
     }
 
-app.include_router(todo_router) # todo 애플리케이션
-# app.include_router(book_router) # 도서관리 애플리케이션
+# app.include_router(todo_router) # todo 애플리케이션
+app.include_router(book_router) # 도서관리 애플리케이션
