@@ -1,4 +1,4 @@
-from sqlalchemy import String
+from sqlalchemy import String, Integer # Numeric(소수점 포함)
 from sqlalchemy.orm import Mapped, mapped_column
 from database import Base
 
@@ -14,9 +14,11 @@ class BookModel(Base):
         nullable=False
     )
     price: Mapped[int] = mapped_column(
-        nullable=False
+        Integer,
+        nullable=True
     )
     isbn: Mapped[int] = mapped_column(
+        Integer,
         nullable=False
     )
 

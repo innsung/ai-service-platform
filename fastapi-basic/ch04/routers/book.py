@@ -13,25 +13,34 @@ book_router = APIRouter()
 
 book_list = []
 
-# C : Create(post)
+# C : Insert(post)
 @book_router.post("/book",
                     response_model=Book,
                     status_code=status.HTTP_201_CREATED) 
-async def add_book(book: BookItem,
+async def add_book(book_data: BookItem,
                         db: Session=Depends(get_db)) -> dict:
-    book_data = BookModel(title=book.title, price=book.price, isbn=book.isbn)
+    bookModel = BookModel(title=book_data.title, price=book_data.price, isbn=book_data.isbn)
 
-    db.add(book_data)
+    db.add(bookModel)
     db.commit()
-    db.refresh(book_data)
+    db.refresh(bookModel)
 
-    return book_data
+    # return bookModel
+    return{
+        "message": "등록 성공!!",
+        "book": {
+                    "id": bookModel.id,
+                    "title": bookModel.title,
+                    "price": bookModel.price,
+                    "isbn": bookModel.isbn
+                }
+    }
 
 
 
-# R : Read(get)
-# R: Read-all
-@book_router.get("/book", response_model=BookItems) 
+# R : Select(get)
+# R: Selecct-all
+@book_router.get("/books", response_model=BookItems) 
 async def getAll(db:Session=Depends(get_db)) -> dict:
     result = db.execute(
         select(BookModel).order_by(BookModel.id)
@@ -41,7 +50,7 @@ async def getAll(db:Session=Depends(get_db)) -> dict:
 
 
 
-# R: Read - id별 조회
+# R: Select - id별 조회
 @book_router.get("/book/{id}", response_model=Book) 
 async def getId(id: int,
                 db: Session=Depends(get_db)) -> dict:
