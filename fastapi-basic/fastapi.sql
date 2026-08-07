@@ -15,4 +15,9 @@ select database();
 # 테이블 리스트 조회
 show tables;
 
+desc books;
+desc python_books;
+
 select * from todos;
+select * from books;
+select * from python_books;
