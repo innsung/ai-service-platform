@@ -17,7 +17,11 @@ show tables;
 
 desc books;
 desc python_books;
+drop table member; 
+desc member;
 
 select * from todos;
 select * from books;
 select * from python_books;
+select * from member;
+

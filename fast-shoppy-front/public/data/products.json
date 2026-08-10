@@ -1,0 +1,527 @@
+[
+    {
+        "pid" : "1",
+        "image" : "/images/bike1.jpg",
+        "name" : "MTB PRO 27.5",
+        "price": 890000,
+        "info" : "실버 산악자전거",
+        "rate": "4.2",
+        "imgList" : [
+            "/images/bike1.jpg",
+            "/images/bike1.jpg",
+            "/images/bike1.jpg"
+        ],
+        "detailInfo": {
+            "title_en": "ALUMINUM MOUNTAIN BIKE",
+            "title_ko": "알루미늄 산악자전거",
+            "list": [
+                        {
+                                "title": "FRAME",
+                                "color": "Matte Silver",
+                                "material": "Aluminum 6061 Frame",
+                                "description": [
+                                    "가볍고 강성이 뛰어난 알루미늄 6061 프레임을 사용했습니다.",
+                                    "험로 주행에도 흔들림이 적은 견고한 용접 구조입니다.",
+                                    "서스펜션 포크가 장착되어 충격을 효과적으로 흡수합니다.",
+                                    "내구성을 높이기 위해 분말 코팅 마감 처리를 했습니다.",
+                                    "산악 지형에서도 안정적인 주행감을 제공합니다."
+                                ]
+                        },
+                        {
+                                "title": "DETAIL",
+                                "description": [
+                                    "21단 변속 기어로 오르막과 내리막을 모두 편안하게 주행할 수 있습니다.",
+                                    "디스크 브레이크 적용으로 제동력이 뛰어납니다.",
+                                    "두꺼운 오프로드 타이어로 그립력이 우수합니다.",
+                                    "짐받이나 물통 케이지 장착이 가능한 프레임 마운트가 있습니다.",
+                                    "출퇴근용은 물론 주말 산악 라이딩에도 적합합니다.",
+                                    "짐받이형 캐리어와 세트로 구성 가능합니다."
+                                ]
+                        },
+                        {
+                                "title": "MAKING",
+                                "description": [
+                                    "용접부는 이중 보강 처리되어 내구성이 뛰어납니다.",
+                                    "정밀 조립 공정을 거쳐 좌우 밸런스가 균일합니다."
+                                ]
+                        },
+                        {
+                                "title": "SIZE",
+                                "type": "MEDIUM / LARGE",
+                                "totalLength": "175cm / 180cm",
+                                "shoulderWidth": "26인치 휠",
+                                "chestWidth": "58cm 탑튜브",
+                                "sleeveLength": "72cm 시트튜브",
+                                "sleeveHemWidth": "1,050mm 휠베이스",
+                                "hemLength": "780mm 핸들바",
+                                "armhole": "170mm 크랭크"
+                        },
+                        {
+                                "title": "RIDER INFO",
+                                "height": "권장 라이더 키 165cm~180cm",
+                                "size": "M 프레임 사이즈 권장"
+                        },
+                        {
+                                "title": "CARE INSTRUCTION",
+                                "description": [
+                                    "주행 후 체인에 이물질이 없도록 부드러운 천으로 닦아주세요.",
+                                    "3개월마다 체인 오일링을 권장합니다.",
+                                    "타이어 공기압을 주기적으로 확인해주세요.",
+                                    "직사광선이 강한 곳에 장시간 보관하지 마세요.",
+                                    "브레이크 패드 마모 상태를 정기적으로 점검해주세요."
+                                ]
+                        }
+            ]
+        }
+    },
+    {
+        "pid" : "2",
+        "image" : "/images/bike2.jpg",
+        "name" : "MTB PRO 27.5 Black",
+        "price": 890000,
+        "info" : "블랙 산악자전거",
+        "rate": "2.2",
+        "imgList" : [
+            "/images/bike2.jpg",
+            "/images/bike2.jpg",
+            "/images/bike2.jpg"
+        ],
+        "detailInfo": {
+            "title_en": "ALUMINUM MOUNTAIN BIKE",
+            "title_ko": "알루미늄 산악자전거",
+            "list": [
+                        {
+                                "title": "FRAME",
+                                "color": "Matte Black",
+                                "material": "Aluminum 6061 Frame",
+                                "description": [
+                                    "가볍고 강성이 뛰어난 알루미늄 6061 프레임을 사용했습니다.",
+                                    "험로 주행에도 흔들림이 적은 견고한 용접 구조입니다.",
+                                    "서스펜션 포크가 장착되어 충격을 효과적으로 흡수합니다.",
+                                    "내구성을 높이기 위해 분말 코팅 마감 처리를 했습니다.",
+                                    "산악 지형에서도 안정적인 주행감을 제공합니다."
+                                ]
+                        },
+                        {
+                                "title": "DETAIL",
+                                "description": [
+                                    "21단 변속 기어로 오르막과 내리막을 모두 편안하게 주행할 수 있습니다.",
+                                    "디스크 브레이크 적용으로 제동력이 뛰어납니다.",
+                                    "두꺼운 오프로드 타이어로 그립력이 우수합니다.",
+                                    "짐받이나 물통 케이지 장착이 가능한 프레임 마운트가 있습니다.",
+                                    "출퇴근용은 물론 주말 산악 라이딩에도 적합합니다.",
+                                    "짐받이형 캐리어와 세트로 구성 가능합니다."
+                                ]
+                        },
+                        {
+                                "title": "MAKING",
+                                "description": [
+                                    "용접부는 이중 보강 처리되어 내구성이 뛰어납니다.",
+                                    "정밀 조립 공정을 거쳐 좌우 밸런스가 균일합니다."
+                                ]
+                        },
+                        {
+                                "title": "SIZE",
+                                "type": "MEDIUM / LARGE",
+                                "totalLength": "175cm / 180cm",
+                                "shoulderWidth": "26인치 휠",
+                                "chestWidth": "58cm 탑튜브",
+                                "sleeveLength": "72cm 시트튜브",
+                                "sleeveHemWidth": "1,050mm 휠베이스",
+                                "hemLength": "780mm 핸들바",
+                                "armhole": "170mm 크랭크"
+                        },
+                        {
+                                "title": "RIDER INFO",
+                                "height": "권장 라이더 키 165cm~180cm",
+                                "size": "M 프레임 사이즈 권장"
+                        },
+                        {
+                                "title": "CARE INSTRUCTION",
+                                "description": [
+                                    "주행 후 체인에 이물질이 없도록 부드러운 천으로 닦아주세요.",
+                                    "3개월마다 체인 오일링을 권장합니다.",
+                                    "타이어 공기압을 주기적으로 확인해주세요.",
+                                    "직사광선이 강한 곳에 장시간 보관하지 마세요.",
+                                    "브레이크 패드 마모 상태를 정기적으로 점검해주세요."
+                                ]
+                        }
+            ]
+        }
+    },
+    {
+        "pid" : "3",
+        "image" : "/images/bike3.jpg",
+        "name" : "ROAD RACER 700C",
+        "price": 1250000,
+        "info" : "카본 로드자전거",
+        "rate": "4",
+        "imgList" : [
+            "/images/bike3.jpg",
+            "/images/bike3.jpg",
+            "/images/bike3.jpg"
+        ],
+        "detailInfo": {
+            "title_en": "CARBON ROAD BIKE",
+            "title_ko": "카본 로드자전거",
+            "list": [
+                        {
+                                "title": "FRAME",
+                                "color": "Glossy White",
+                                "material": "Carbon Fiber Frame",
+                                "description": [
+                                    "초경량 카본 프레임으로 뛰어난 가속력을 제공합니다.",
+                                    "공기 저항을 최소화한 에어로 디자인을 적용했습니다.",
+                                    "장거리 라이딩에도 피로감이 적은 지오메트리입니다.",
+                                    "고강성 BB(바텀브라켓)로 페달링 효율이 높습니다.",
+                                    "레이스와 일상 라이딩 모두에 적합합니다."
+                                ]
+                        },
+                        {
+                                "title": "DETAIL",
+                                "description": [
+                                    "22단 변속 구동계로 세밀한 기어 조작이 가능합니다.",
+                                    "경량 휠셋으로 빠른 가속과 감속이 가능합니다.",
+                                    "드롭바 핸들로 공기 저항을 줄여줍니다.",
+                                    "듀얼 피벗 캘리퍼 브레이크로 제동력이 안정적입니다.",
+                                    "장거리 투어링과 라이딩 대회에 적합한 세팅입니다.",
+                                    "클릿 페달 호환이 가능합니다."
+                                ]
+                        },
+                        {
+                                "title": "MAKING",
+                                "description": [
+                                    "카본 레이업 공정을 통해 프레임 강성과 경량화를 동시에 실현했습니다.",
+                                    "정밀 도장 공정으로 마감이 깨끗합니다."
+                                ]
+                        },
+                        {
+                                "title": "SIZE",
+                                "type": "SMALL / MEDIUM",
+                                "totalLength": "165cm / 178cm",
+                                "shoulderWidth": "700C 휠",
+                                "chestWidth": "54cm 탑튜브",
+                                "sleeveLength": "68cm 시트튜브",
+                                "sleeveHemWidth": "980mm 휠베이스",
+                                "hemLength": "420mm 드롭바",
+                                "armhole": "165mm 크랭크"
+                        },
+                        {
+                                "title": "RIDER INFO",
+                                "height": "권장 라이더 키 165cm~178cm",
+                                "size": "S 프레임 사이즈 권장"
+                        },
+                        {
+                                "title": "CARE INSTRUCTION",
+                                "description": [
+                                    "카본 프레임은 강한 충격에 주의해주세요.",
+                                    "체인과 스프로켓은 주기적으로 세척 및 오일링 해주세요.",
+                                    "타이어 공기압은 권장 수치를 유지해주세요.",
+                                    "빗길 주행 후에는 물기를 반드시 제거해주세요.",
+                                    "정기적으로 전문점에서 휠 얼라인먼트 점검을 받으세요."
+                                ]
+                        }
+            ]
+        }
+    },
+    {
+        "pid" : "4",
+        "image" : "/images/bike4.jpg",
+        "name" : "ROAD RACER 700C Carbon",
+        "price": 1590000,
+        "info" : "블루 카본 로드자전거",
+        "rate": "3.2",
+        "imgList" : [
+            "/images/bike4.jpg",
+            "/images/bike4.jpg",
+            "/images/bike4.jpg"
+        ],
+        "detailInfo": {
+            "title_en": "CARBON ROAD BIKE",
+            "title_ko": "카본 로드자전거",
+            "list": [
+                        {
+                                "title": "FRAME",
+                                "color": "Deep Blue",
+                                "material": "Carbon Fiber Frame",
+                                "description": [
+                                    "초경량 카본 프레임으로 뛰어난 가속력을 제공합니다.",
+                                    "공기 저항을 최소화한 에어로 디자인을 적용했습니다.",
+                                    "장거리 라이딩에도 피로감이 적은 지오메트리입니다.",
+                                    "고강성 BB(바텀브라켓)로 페달링 효율이 높습니다.",
+                                    "레이스와 일상 라이딩 모두에 적합합니다."
+                                ]
+                        },
+                        {
+                                "title": "DETAIL",
+                                "description": [
+                                    "22단 변속 구동계로 세밀한 기어 조작이 가능합니다.",
+                                    "경량 휠셋으로 빠른 가속과 감속이 가능합니다.",
+                                    "드롭바 핸들로 공기 저항을 줄여줍니다.",
+                                    "듀얼 피벗 캘리퍼 브레이크로 제동력이 안정적입니다.",
+                                    "장거리 투어링과 라이딩 대회에 적합한 세팅입니다.",
+                                    "클릿 페달 호환이 가능합니다."
+                                ]
+                        },
+                        {
+                                "title": "MAKING",
+                                "description": [
+                                    "카본 레이업 공정을 통해 프레임 강성과 경량화를 동시에 실현했습니다.",
+                                    "정밀 도장 공정으로 마감이 깨끗합니다."
+                                ]
+                        },
+                        {
+                                "title": "SIZE",
+                                "type": "SMALL / MEDIUM",
+                                "totalLength": "165cm / 178cm",
+                                "shoulderWidth": "700C 휠",
+                                "chestWidth": "54cm 탑튜브",
+                                "sleeveLength": "68cm 시트튜브",
+                                "sleeveHemWidth": "980mm 휠베이스",
+                                "hemLength": "420mm 드롭바",
+                                "armhole": "165mm 크랭크"
+                        },
+                        {
+                                "title": "RIDER INFO",
+                                "height": "권장 라이더 키 165cm~178cm",
+                                "size": "S 프레임 사이즈 권장"
+                        },
+                        {
+                                "title": "CARE INSTRUCTION",
+                                "description": [
+                                    "카본 프레임은 강한 충격에 주의해주세요.",
+                                    "체인과 스프로켓은 주기적으로 세척 및 오일링 해주세요.",
+                                    "타이어 공기압은 권장 수치를 유지해주세요.",
+                                    "빗길 주행 후에는 물기를 반드시 제거해주세요.",
+                                    "정기적으로 전문점에서 휠 얼라인먼트 점검을 받으세요."
+                                ]
+                        }
+            ]
+        }
+    },
+    {
+        "pid" : "5",
+        "image" : "/images/bike5.jpg",
+        "name" : "CITY CRUISER",
+        "price": 320000,
+        "info" : "라이프스타일 자전거",
+        "rate": "5",
+        "imgList": [
+            "/images/bike5.jpg",
+            "/images/bike5.jpg",
+            "/images/bike5.jpg"
+        ],
+        "detailInfo": {
+            "title_en": "CITY LIFESTYLE BICYCLE",
+            "title_ko": "도심형 라이프스타일 자전거",
+            "list": [
+                        {
+                                "title": "FRAME",
+                                "color": "Cream Beige",
+                                "material": "Hi-Ten Steel Frame",
+                                "description": [
+                                    "클래식한 디자인의 스틸 프레임으로 안정적인 주행감을 제공합니다.",
+                                    "출퇴근과 근거리 이동에 최적화된 편안한 지오메트리입니다.",
+                                    "바구니, 짐받이 등 다양한 액세서리 장착이 가능합니다.",
+                                    "낮은 프레임 설계로 승하차가 편리합니다.",
+                                    "도심 라이딩에 어울리는 스타일리시한 컬러 구성입니다."
+                                ]
+                        },
+                        {
+                                "title": "DETAIL",
+                                "description": [
+                                    "펑크 방지 타이어로 유지 관리가 편리합니다.",
+                                    "체인 커버가 장착되어 옷이 끼일 걱정이 없습니다.",
+                                    "안장 높이 조절이 쉬워 다양한 체형에 맞출 수 있습니다.",
+                                    "일상복 착용 시에도 편안하게 탑승할 수 있습니다.",
+                                    "야간 주행을 위한 반사 스티커가 부착되어 있습니다.",
+                                    "가벼운 장바구니 이동에도 적합합니다."
+                                ]
+                        },
+                        {
+                                "title": "MAKING",
+                                "description": [
+                                    "부드러운 용접 라인으로 마감이 매끄럽습니다.",
+                                    "도장 후 코팅 처리로 스크래치에 강합니다."
+                                ]
+                        },
+                        {
+                                "title": "SIZE",
+                                "type": "FREE SIZE",
+                                "totalLength": "160cm / 175cm",
+                                "shoulderWidth": "24인치 휠",
+                                "chestWidth": "50cm 탑튜브",
+                                "sleeveLength": "65cm 시트튜브",
+                                "sleeveHemWidth": "990mm 휠베이스",
+                                "hemLength": "700mm 핸들바",
+                                "armhole": "160mm 크랭크"
+                        },
+                        {
+                                "title": "RIDER INFO",
+                                "height": "권장 라이더 키 155cm~175cm",
+                                "size": "FREE 프레임 사이즈 (누구나 탑승 가능)"
+                        },
+                        {
+                                "title": "CARE INSTRUCTION",
+                                "description": [
+                                    "빗길 주행 후 체인에 물기를 제거해주세요.",
+                                    "타이어 공기압을 주기적으로 확인해주세요.",
+                                    "장기간 미사용 시 실내 보관을 권장합니다.",
+                                    "안장과 핸들 높이를 주기적으로 점검해주세요.",
+                                    "벨과 라이트 배터리 상태를 확인해주세요."
+                                ]
+                        }
+            ]
+        }
+    },
+    {
+        "pid" : "6",
+        "image" : "/images/bike6.jpg",
+        "name" : "E-BULLET XC",
+        "price": 1990000,
+        "info" : "전기자전거",
+        "rate": "3",
+        "imgList": [
+            "/images/bike6.jpg",
+            "/images/bike6.jpg",
+            "/images/bike6.jpg"
+        ],
+        "detailInfo": {
+            "title_en": "ELECTRIC MOUNTAIN BIKE",
+            "title_ko": "전동 산악자전거",
+            "list": [
+                        {
+                                "title": "FRAME",
+                                "color": "Chameleon Black",
+                                "material": "Aluminum Frame with Battery Mount",
+                                "description": [
+                                    "배터리 일체형 알루미늄 프레임으로 무게 중심이 안정적입니다.",
+                                    "강력한 전동 모터 탑재로 오르막에서도 힘들이지 않고 주행합니다.",
+                                    "탈부착이 쉬운 배터리 설계로 충전이 간편합니다.",
+                                    "험로 주행에도 견고한 프레임 강성을 유지합니다.",
+                                    "스마트 라이딩 경험을 위한 미래지향적 디자인입니다."
+                                ]
+                        },
+                        {
+                                "title": "DETAIL",
+                                "description": [
+                                    "3단계 어시스트 모드로 라이딩 강도를 조절할 수 있습니다.",
+                                    "1회 완충 시 최대 60km 주행이 가능합니다.",
+                                    "LCD 디스플레이로 배터리 잔량과 속도를 확인할 수 있습니다.",
+                                    "유압 디스크 브레이크로 강력한 제동력을 제공합니다.",
+                                    "험로와 도심 주행 모두에 적합한 하이브리드 세팅입니다.",
+                                    "USB 충전 포트가 내장되어 있습니다."
+                                ]
+                        },
+                        {
+                                "title": "MAKING",
+                                "description": [
+                                    "배터리 보호 커버로 내구성과 안전성을 강화했습니다.",
+                                    "방수 등급을 적용한 전장 부품으로 우천 주행이 가능합니다."
+                                ]
+                        },
+                        {
+                                "title": "SIZE",
+                                "type": "MEDIUM / LARGE",
+                                "totalLength": "170cm / 185cm",
+                                "shoulderWidth": "27.5인치 휠",
+                                "chestWidth": "56cm 탑튜브",
+                                "sleeveLength": "74cm 시트튜브",
+                                "sleeveHemWidth": "1,120mm 휠베이스",
+                                "hemLength": "760mm 핸들바",
+                                "armhole": "170mm 크랭크"
+                        },
+                        {
+                                "title": "RIDER INFO",
+                                "height": "권장 라이더 키 165cm~185cm",
+                                "size": "M 프레임 사이즈 권장"
+                        },
+                        {
+                                "title": "CARE INSTRUCTION",
+                                "description": [
+                                    "배터리는 완전 방전 전 충전을 권장합니다.",
+                                    "장기 미사용 시 배터리를 분리해 보관해주세요.",
+                                    "전장 부품은 고압 세척을 피해주세요.",
+                                    "정기적으로 서비스센터에서 모터 점검을 받으세요.",
+                                    "타이어 공기압과 브레이크 패드를 주기적으로 확인해주세요."
+                                ]
+                        }
+            ]
+        }
+    },
+    {
+        "pid" : "7",
+        "image" : "/images/bike7.jpg",
+        "name" : "ROAD RACER Lite",
+        "price": 990000,
+        "info" : "입문용 로드자전거",
+        "rate": "3.5",
+        "imgList": [
+            "/images/bike7.jpg",
+            "/images/bike7.jpg",
+            "/images/bike7.jpg"
+        ],
+        "detailInfo": {
+            "title_en": "ALUMINUM ROAD BIKE",
+            "title_ko": "알루미늄 로드자전거",
+            "list": [
+                        {
+                                "title": "FRAME",
+                                "color": "Racing Red",
+                                "material": "Aluminum 6061 Frame",
+                                "description": [
+                                    "입문자에게 적합한 가벼운 알루미늄 프레임입니다.",
+                                    "경쾌한 가속감과 안정적인 코너링을 제공합니다.",
+                                    "장거리 주행에도 부담이 적은 지오메트리입니다.",
+                                    "합리적인 가격대의 로드바이크 라인업입니다.",
+                                    "출퇴근 겸용으로도 활용하기 좋습니다."
+                                ]
+                        },
+                        {
+                                "title": "DETAIL",
+                                "description": [
+                                    "16단 변속 구동계로 다양한 지형에 대응합니다.",
+                                    "가벼운 알로이 휠셋이 적용되었습니다.",
+                                    "드롭바 핸들로 여러 그립 포지션을 사용할 수 있습니다.",
+                                    "V브레이크 적용으로 유지보수가 간편합니다.",
+                                    "첫 로드바이크로 추천하는 모델입니다.",
+                                    "가벼운 짐받이 장착이 가능합니다."
+                                ]
+                        },
+                        {
+                                "title": "MAKING",
+                                "description": [
+                                    "표준화된 조립 공정으로 품질이 균일합니다.",
+                                    "도장 마감이 매끄럽고 스크래치에 강합니다."
+                                ]
+                        },
+                        {
+                                "title": "SIZE",
+                                "type": "SMALL / MEDIUM",
+                                "totalLength": "163cm / 176cm",
+                                "shoulderWidth": "700C 휠",
+                                "chestWidth": "52cm 탑튜브",
+                                "sleeveLength": "66cm 시트튜브",
+                                "sleeveHemWidth": "970mm 휠베이스",
+                                "hemLength": "400mm 드롭바",
+                                "armhole": "165mm 크랭크"
+                        },
+                        {
+                                "title": "RIDER INFO",
+                                "height": "권장 라이더 키 163cm~176cm",
+                                "size": "S 프레임 사이즈 권장"
+                        },
+                        {
+                                "title": "CARE INSTRUCTION",
+                                "description": [
+                                    "체인 오일링은 월 1회 이상 권장합니다.",
+                                    "타이어 공기압을 주기적으로 점검해주세요.",
+                                    "브레이크 와이어 텐션을 정기적으로 확인해주세요.",
+                                    "빗길 주행 후에는 물기를 제거해주세요.",
+                                    "장기 보관 시 실내에 보관해주세요."
+                                ]
+                        }
+            ]
+        }
+    }
+]
