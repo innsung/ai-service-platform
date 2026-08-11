@@ -15,17 +15,11 @@ export default function Header() {
   const cartCount = cartItems.reduce((sum, item) => sum + item.qty, 0);
 
   const handleLogout = async () => {
-    await axiosPost("/member/logout"); // ← 서버에 쿠키 삭제 요청
+    const result = await axiosPost("/api/member/logout"); // ← 서버에 쿠키 삭제 요청
     logout(); // ← Zustand 상태 초기화
-    alert("로그아웃 되었습니다");
+    if(result.isLogout)  alert("로그아웃 되었습니다");
     navigate("/");
   };
-
-  // const handleLogout = () => {
-  //   logout();
-  //   alert('로그아웃 되었습니다');
-  //   navigate('/');
-  // };
 
   return (
     <div className="header-outer">

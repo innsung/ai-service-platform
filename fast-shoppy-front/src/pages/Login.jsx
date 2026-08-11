@@ -34,7 +34,7 @@ export default function Login() {
     }
 
     // JSON 모드: 간단 로그인 시뮬레이션 (id/pwd 모두 입력 시 성공)
-    const result = await axiosPost("/member/login", formData);
+    const result = await axiosPost("/api/member/login", formData);
     if (result.isLogin) {
       // 로그인 인증 관리 => 전역 객체 리덕스에 등록
       login({

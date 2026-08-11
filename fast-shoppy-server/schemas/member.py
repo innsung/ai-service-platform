@@ -2,6 +2,23 @@ from pydantic import BaseModel, ConfigDict, Field
 from typing import List, Optional
 from datetime import datetime
 
+# LoginItem class
+class LoginItem(BaseModel):
+    id: str
+    pwd: str
+
+    model_config = ConfigDict(
+        json_schema_extra={
+            "examples": [
+                {
+                    "id": "test",
+                    "pwd": "****"
+                }
+            ]
+        }
+    )
+
+
 # MemberItem class
 class MemberItem(BaseModel):
     id: str
